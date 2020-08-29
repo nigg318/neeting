@@ -1,15 +1,23 @@
 .top-title{
     font-size:30px;
+    text-align:center;
 }
 .top-subtitle h1{
     font-size:20px;
-}
-
-head{
     text-align:center;
 }
 
-.column{
-    width:150px;
+head{
+    position:absolute;
     margin:0 auto;
+    
+}
+
+.column{
+    width:500px;
+    margin:20px auto 20px 150px;
+}
+
+.column h2{
+    color:rgba(224, 30, 215, 0.8);
 }
