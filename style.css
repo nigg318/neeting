@@ -21,3 +21,8 @@ head{
 .column h2{
     color:rgba(224, 30, 215, 0.8);
 }
+
+
+.column h3{
+    color:rgba(248, 159, 58, 0.8);
+}
