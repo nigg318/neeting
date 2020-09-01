@@ -30,3 +30,7 @@ head{
 .column h4{
     color:rgba(63, 240, 104, 0.8);
 }
+
+.column h5{
+    color:rgba(138, 8, 14, 0.8);
+}
